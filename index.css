@@ -1,0 +1,30 @@
+.main{
+    width: 800px;
+    margin: 0 auto;
+  
+}
+.main .top h1{
+    text-align: center;
+    font-size: 70px;
+}
+.div-input{
+    width: 400px;
+    margin: 10px auto;
+}
+.div-input input{
+    width: 400px;
+    padding: 10px 20px;
+    border: 1px solid gray;
+}
+.div-input textarea{
+    width: 438px;
+    height: 200px;
+}
+.div-input button{
+    width: 444px;
+    padding: 10px 20px;
+    border: 1px solid gray;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+}
